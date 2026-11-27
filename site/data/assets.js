@@ -1,0 +1,86 @@
+window.CONG_ASSETS = [
+  {
+    "id": "chibi",
+    "title": "Q 版 Cong 娘",
+    "category": "reference",
+    "file": "assets/cong-chibi-sheet.png",
+    "width": 1434,
+    "height": 1074,
+    "frames": 1,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "AI 生成 · 由九宫格重组为静态参考图"
+  },
+  {
+    "id": "proportional",
+    "title": "常规比例 Cong 娘",
+    "category": "reference",
+    "file": "assets/cong-proportional-sheet.png",
+    "width": 1300,
+    "height": 875,
+    "frames": 1,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "从综合设定图提取三视图及细节；非独立成熟体原画"
+  },
+  {
+    "id": "overview",
+    "title": "综合角色设定图",
+    "category": "reference",
+    "file": "assets/cong-overview.png",
+    "width": 1536,
+    "height": 1024,
+    "frames": 1,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "AI 生成 · 身高和性格等为提案"
+  },
+  {
+    "id": "portrait",
+    "title": "白底主立绘",
+    "category": "art",
+    "file": "assets/cong-portrait.png",
+    "width": 1024,
+    "height": 1536,
+    "frames": 1,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "AI 生成"
+  },
+  {
+    "id": "meadow",
+    "title": "追逐蝴蝶",
+    "category": "art",
+    "file": "assets/cong-meadow.png",
+    "width": 1086,
+    "height": 1448,
+    "frames": 1,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "AI 生成 · 草地场景"
+  },
+  {
+    "id": "hug",
+    "title": "抱抱小鸟",
+    "category": "gif",
+    "file": "assets/cong-hug.gif",
+    "width": 413,
+    "height": 414,
+    "frames": 9,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "AI 生成 · 9 帧循环"
+  },
+  {
+    "id": "hug-bounce",
+    "title": "开心抱抱",
+    "category": "gif",
+    "file": "assets/cong-hug-bounce.gif",
+    "width": 426,
+    "height": 401,
+    "frames": 9,
+    "source": "本次 Cong 娘创作",
+    "license": "待权利人确认",
+    "note": "AI 生成 · 9 帧循环"
+  }
+];
